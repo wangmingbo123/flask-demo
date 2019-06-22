@@ -1,0 +1,13 @@
+{
+  "a": 10,
+  "user": "qwe",
+  "name": "asa",
+  "score": [
+    {
+      "name": "one"
+    },
+    {
+      "name": "two"
+    }
+  ]
+}
