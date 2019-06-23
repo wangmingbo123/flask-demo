@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import requests
+
 print("hello world")
 
 list1 = [1, 2, 5, 2]
@@ -33,5 +34,11 @@ for item in dict.items():
     print(item[1])
     print("item is end")
 
+a = [(1, 2), (8, 9)]
 
-requests.post()
+print(a)
+print(a.pop(0))
+
+a.append((2, 3))
+
+print(a)
